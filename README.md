@@ -44,17 +44,18 @@ JavaScript is also used for handling Unicode characters in the response, copying
 
 Upon opening the application, you will find a form to input the parameters for your lesson plan. These parameters include:
 
-Language: The language of instruction for the lesson plan.
-Co-teacher Language: The language to be used in the co-teacher instructions & vocabulary section.
-Curriculum: The curriculum to adhere to for the lesson plan.
-Subject: The subject of the lesson.
-Topic: The specific topic for the lesson.
-Activity Duration: The duration (in minutes) for the main activity in the lesson.
-Age Group: The age group of the students for whom the lesson is designed.
-Level: The level of comprehension of the students (e.g. beginner, intermediate, advanced).
-Activity Type: The type of activity involved in the lesson.
-Keywords: The keywords to be incorporated into the lesson plan.
-Location: The location where the lesson will be taught, as it might affect the laws and regulations adhered to in the lesson.
+- Language: The language of instruction for the lesson plan.
+- Co-teacher Language: The language to be used in the co-teacher instructions & vocabulary section.
+- Curriculum: The curriculum to adhere to for the lesson plan.
+- Subject: The subject of the lesson.
+- Topic: The specific topic for the lesson.
+- Activity Duration: The duration (in minutes) for the main activity in the lesson.
+- Age Group: The age group of the students for whom the lesson is designed.
+- Level: The level of comprehension of the students (e.g. beginner, intermediate, advanced).
+- Activity Type: The type of activity involved in the lesson.
+- Keywords: The keywords to be incorporated into the lesson plan.
+- Location: The location where the lesson will be taught, as it might affect the laws and regulations adhered to in the lesson.
+
 After inputting the parameters, click the 'Generate Lesson Plan' button. The application will take a few seconds to generate your lesson plan and display it in the 'Lesson Plan' section.
 
 There's also a 'Copy to Clipboard' button that you can use to copy the entire text of the generated lesson plan.
