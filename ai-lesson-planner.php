@@ -3,7 +3,7 @@
 Plugin Name: AI Lesson Planner
 Plugin URI: https://kindersync.com/
 Description: A plugin to generate lesson plans using AI. Proudly built as part of the OMS CS6460 Educational Technology course at Georgia Tech.
-Version: 1.1
+Version: 1.0
 Author: Davey Mason
 Author URI: https://daveymason.com/
 */
@@ -30,7 +30,7 @@ function test_openai_api() {
 
     $url = 'https://api.openai.com/v1/chat/completions';
     $body = [
-        'model' => 'gpt-4o-mini',
+        'model' => 'gpt-3.5-turbo',
         'messages' => [
             [
                 'role' => 'system',
